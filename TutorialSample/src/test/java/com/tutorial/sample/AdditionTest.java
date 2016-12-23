@@ -24,6 +24,7 @@ public class AdditionTest {
 	@After
 	public void clearObject(){
 		System.out.println("object value :"+addition);
+		System.out.println("object value :"+addition);
 		addition=null;
 		System.out.println("object value :"+addition);
 	}
